@@ -1,0 +1,18 @@
+
+-- create
+CREATE TABLE STUDENT (
+  st_Id INTEGER PRIMARY KEY AUTO_INCREMENT,
+  name TEXT NOT NULL,
+  age INTEGER NOT NULL,
+  address TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO STUDENT VALUES (NULL, 'Ivan', '18', 'Street1, 3-5');
+INSERT INTO STUDENT VALUES (NULL, 'Petr', '22', 'Street2, 1-13');
+INSERT INTO STUDENT VALUES (NULL, 'Anna', '35', 'Street3, 38-25');
+INSERT INTO STUDENT VALUES (NULL, 'Yulia', '18', 'Street4, 19-4');
+INSERT INTO STUDENT VALUES (NULL, 'Nukolay', '36', 'Street5, 2-2');
+
+-- fetch 
+SELECT * FROM STUDENT WHERE address LIKE '%3%';
