@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<req>
+    <surname>Ivanov</surname>
+
+    <name>Ivan</name>
+
+    <patronymic>Ivanovich</patronymic>
+
+    <birthdate>01.01.1990</birthdate>
+
+    <birthplace>Moscow</birthplace>
+
+    <phone>8 926 766 48 48</phone>
+</req>
+
+<!-- 
+    Файл не валиден, 2 исправления: 
+    1. добавлена строка 1
+    2. в строке 9 добавлен закрывающий знак ">"
+    а вот пустые строки, видимо, не проблема =)
+-->

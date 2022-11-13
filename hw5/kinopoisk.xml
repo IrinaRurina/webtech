@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<genreTopThreeFilms>
+
+    <comedy code="1">
+        <name>Ivan Vasilevich menaet professiu</name>
+        <rate>8,8</rate>
+        <placeTop250>13</placeTop250>
+        <year>1973</year>
+        <durationMinutes>88</durationMinutes>
+        <country>USSR</country>
+    </comedy>
+    <comedy code="2">
+        <name>Operatsia I i drugie priklucheniya Shurika</name>
+        <rate>8,7</rate>
+        <placeTop250>48</placeTop250>
+        <year>1965</year>
+        <durationMinutes>95</durationMinutes>
+        <country>USSR</country>
+    </comedy>
+    <comedy code="3">
+        <name>Home alone</name>
+        <rate>8,3</rate>
+        <placeTop250>63</placeTop250>
+        <year>1990</year>
+        <durationMinutes>103</durationMinutes>
+        <country>USA</country>
+    </comedy> 
+
+    <cartoon code="3">
+        <name>Zootopia</name>
+        <rate>8,3</rate>
+        <placeTop250>67</placeTop250>
+        <year>2016</year>
+        <durationMinutes>108</durationMinutes>
+        <country>USA</country>
+    </cartoon>
+    <cartoon code="1">
+        <name>Rick and Morty</name>
+        <rate>9,0</rate>
+        <placeTop250>10</placeTop250>
+        <year>2013-...</year>
+        <durationMinutes>23</durationMinutes>
+        <country>USA</country>
+    </cartoon>
+    <cartoon code="2">
+        <name>Nu, pogodi!</name>
+        <rate>8,7</rate>
+        <placeTop250/>
+        <year>1969-2017</year>
+        <durationMinutes>10</durationMinutes>
+        <country>USSR</country>
+    </cartoon>
+
+    <fiction code="1">
+        <name>Inception</name>
+        <rate>8,7</rate>
+        <placeTop250>21</placeTop250>
+        <year>2010</year>
+        <durationMinutes>148</durationMinutes>
+        <country>USA</country>
+    </fiction>
+    <fiction code="2">
+        <name>Interstellar</name>
+        <rate>8,6</rate>
+        <placeTop250>10</placeTop250>
+        <year>2014</year>
+        <durationMinutes>169</durationMinutes>
+        <country>USA</country>
+    </fiction>
+    <fiction code="3">
+        <name>Avatar</name>
+        <rate>8,0</rate>
+        <placeTop250>173</placeTop250>
+        <year>2009</year>
+        <durationMinutes>162</durationMinutes>
+        <country>USA</country>
+    </fiction>
+
+    <adventure code="1">
+        <name>Il buono, il brutto, il cattivo</name>
+        <rate>8,5</rate>
+        <placeTop250>121</placeTop250>
+        <year>1966</year>
+        <durationMinutes>178</durationMinutes>
+        <country>Italy</country>
+    </adventure>
+    <adventure code="2">
+        <name>Pirates of the Caribbean: at world's end</name>
+        <rate>8,0</rate>
+        <placeTop250>86</placeTop250>
+        <year>2007</year>
+        <durationMinutes>169</durationMinutes>
+        <country>USA</country>
+    </adventure>
+    <adventure code="3">
+        <name>The revenant</name>
+        <rate>7,8</rate>
+        <placeTop250/>
+        <year>2015</year>
+        <durationMinutes>156</durationMinutes>
+        <country>USA</country>
+    </adventure>
+
+    <drama code="1">
+        <name>The Green mile</name>
+        <rate>9,1</rate>
+        <placeTop250>1</placeTop250>
+        <year>1999</year>
+        <durationMinutes>189</durationMinutes>
+        <country>USA</country>
+    </drama>
+    <drama code="2">
+        <name>The Shawshank redemption</name>
+        <rate>9,1</rate>
+        <placeTop250>3</placeTop250>
+        <year>1994</year>
+        <durationMinutes>142</durationMinutes>
+        <country>USA</country>
+    </drama>
+    <drama code="3">
+        <name>Forrest Gump</name>
+        <rate>8,9</rate>
+        <placeTop250>4</placeTop250>
+        <year>1994</year>
+        <durationMinutes>142</durationMinutes>
+        <country>USA</country>
+    </drama>
+    
+</genreTopThreeFilms>
